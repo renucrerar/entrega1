@@ -1,0 +1,27 @@
+.logo{
+    height: 100px;
+    width: 160px;
+}
+
+header {
+    margin-bottom: 20px 10px; 
+    background-color: rgb(0, 0, 0);
+  }
+   body{
+ background-image: url(../img/stock-photo-muscular-guy-lifting-heavy-barbell.jpeg);
+width: 100%;
+height: 100%;
+   }
+
+   .navbar-quarter {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ 
+  
+  
+  
+  
+  
+  
